@@ -78,15 +78,15 @@ endmodule
 
 <img width="309" height="123" alt="502803719-2b761cab-b9f2-4fbe-b15d-e571bbdc4657" src="https://github.com/user-attachments/assets/88bf2319-f1d9-4536-9dad-fc1b16d9ff59" />
 
-**Output/TIMING Waveform**
-#HALF ADDER
+# Output/TIMING Waveform
+# HALF ADDER
 
 <img width="823" height="176" alt="502803854-557813dd-ceeb-4b0c-9bc2-07016bda539d" src="https://github.com/user-attachments/assets/862b5ab0-cdcf-4c3b-ad7e-a63b2a8825f0" />
 
-#HALF SUBTRACTOR
+# HALF SUBTRACTOR
 
 <img width="819" height="256" alt="502803902-5283d38e-fe67-4ac0-924c-7d371e3cf759" src="https://github.com/user-attachments/assets/6a6cbf6d-c2bb-4040-a5c3-0524c42f1a75" />
 
-**Result:**
+## Result:
 Thus the OUTPUT's of Encoder and Decoder are verified by synthesizing and simulating the VERILOG code.
 
